@@ -1,0 +1,25 @@
+Test Cases Summary.  
+
+Problem 1
+Test Case 1 - tests normal sorting of numbers
+Test Case 2 - normal sorting with negitive and positive numbers
+Test Case 3 - tests NoDuplicates paramater
+Test Case 4 - tests Reverse paramater
+Test Case 5 - tests Reverse, SortbyAbsoluteValues, and NoDuplicates paramaters
+Test Case 6 - tests SortbyAbsoluteValues paramater
+Test Case 7 - tests SortbyAbsoluteValues and NoDuplicates paramaters
+
+
+Problem 2
+Test Case 1 - tests the ability to create a Point and check to see if x, y, and z have been set properly
+Test Case 2 - tests the string output of Point
+Test Case 3 - tests the ability to create a PointCloudData object and see if the points list has been set properly
+Test Case 4 - tests the add method of PointCloudData
+Test Case 5 - tests the remove method of PointCloudData
+Test Case 6 - tests the ability to create a BoundingBox object and checks to see whether the points list of the super class has been set properly
+Test Case 7 - tests whether the center and dimensions of the BoundingBox have been set correctly
+Test Case 8 - tests the updateBox method in order for this case to pass the add method of PointCloudData must work
+Test Case 9 - tests collisionCheck
+Test Case 10 - tests collisionCheck
+Test Case 11 - tests __add__
+Test Case 12 - tests __len__
