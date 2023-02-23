@@ -1,4 +1,4 @@
-# ES122 Introduction to Python
+# Assignment 3
 
 ## Academic Integrity Disclaimer
 
